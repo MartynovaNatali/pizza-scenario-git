@@ -6,4 +6,5 @@
 - ✅ Созданы ветки `fix-address` и `fix-typo`
 - ✅ В каждой ветке изменена **одна и та же строка** по-разному
 - ✅ Созданы Pull Request'ы
-- ✅ <span style="color: green">**Merge-конфликт**</span> создан и успешно разрешён
+![Git Conflict](https://img.shields.io/badge/Git-conflict-red)
+![Status](https://img.shields.io/badge/Status-resolved-brightgreen)
